@@ -2,7 +2,7 @@
 title: "Lagged Explanatory Variables and the Estimation of Causal Effects"
 collection: publications
 permalink: http://www.journals.uchicago.edu/doi/abs/10.1086/690946?journalCode=jop#.WR7se4yUCNE
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: ''
 date: 2017-5-18
 venue: 'Journal of Politics'
 paperurl: 'http://www.journals.uchicago.edu/doi/abs/10.1086/690946?journalCode=jop#.WR7se4yUCNE'
