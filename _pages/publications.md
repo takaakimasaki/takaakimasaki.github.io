@@ -15,7 +15,7 @@ author_profile: true
 
 ***2020***
 
-"[When do performance assessments influence policy behavior? Micro-evidence from the 2014 Reform Efforts Survey](https://link.springer.com/article/10.1007/s11558-018-9342-3)." (With Brad C. Parks) *The Review of International Organizations* 15: 371–408.
+"[When do performance assessments influence policy behavior? Micro-evidence from the 2014 Reform Efforts Survey](https://link.springer.com/article/10.1007/s11558-018-9342-3)." (With Bradley C. Parks) *The Review of International Organizations* 15: 371–408.
 
 ***2018***
 
