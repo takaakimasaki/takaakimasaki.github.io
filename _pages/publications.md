@@ -11,7 +11,7 @@ author_profile: true
 
 ***2021***
 
-"[Aid Management, Trust, and Development Policy Influence: New Evidence from a Survey of Public Sector Officials in Low-Income and Middle-Income Countries](https://link.springer.com/article/10.1007/s12116-020-09316-3)." (With Bradley C Parks, Jörg Faust, Stefan Leiderer, Matthew D DiLorenzo). *Studies in Comparative International Development volume* 56: 364–383.
+"[Aid Management, Trust, and Development Policy Influence: New Evidence from a Survey of Public Sector Officials in Low-Income and Middle-Income Countries](https://link.springer.com/article/10.1007/s12116-020-09316-3)." (With Bradley C Parks, Jörg Faust, Stefan Leiderer, Matthew D DiLorenzo). *Studies in Comparative International Development* 56: 364–383.
 
 ***2020***
 
