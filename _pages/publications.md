@@ -7,7 +7,7 @@ author_profile: true
 
 ***2022***
 
-"[Mobile Internet Adoption in West Africa](https://www.sciencedirect.com/science/article/abs/pii/S0160791X21003201)." (With Rogelio Granguillhome Ochoaa, Samantha Lacha, Carlos Rodríguez-Castelán). *Technology in Society* 68.
+"[Mobile Internet Adoption in West Africa](https://www.sciencedirect.com/science/article/abs/pii/S0160791X21003201)." (With Rogelio Granguillhome Ochoaa, Samantha Lacha, Carlos Rodríguez-Castelán). *Technology in Society* 68 .
 
 ***2021***
 
