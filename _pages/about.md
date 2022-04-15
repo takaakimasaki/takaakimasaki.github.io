@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I am an economist at the World Bank. Prior to my career at the World Bank, I worked as a Senior Research Analyst at AidData, a development research lab at the College of William & Mary. I received a Ph.D. in Political Science from Cornell University in 2015. My research focuses on the political economy of development. In particular, I am interested in public finance, development finance, urban development, poverty, and political origins of economic policy.
+Welcome to my website. I am an Economist in the Poverty and Equity Global Practice at the World Bank. My current work focuses on developing the applications of GIS and big data analytics in improving poverty estimation at a geographically granular level, informing spatial targeting of investments, and understanding the distributional impact of policy interventions. Prior to my career at the World Bank, I worked as a Postdoctoral Fellow at AidData, a development research lab at the College of William & Mary. I received a Ph.D. in Political Science from Cornell University in 2015. 
