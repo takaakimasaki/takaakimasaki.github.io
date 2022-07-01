@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ***2022***
+
 "Small Area Estimation of Non-monetary Poverty with Geospatial Data." (With David
 Newhouse, Ani Rudra Silwal, Adane Bedada and Ryan Engstrom). *Statistical Journal of the IAOS*.
 
