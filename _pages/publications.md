@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 ***2022***
+"Mobile Broadband Internet, Poverty and Labor Outcomes in Tanzania." (With David
+Newhouse, Ani Rudra Silwal, Adane Bedada and Ryan Engstrom). Conditionally accepted at *World Bank Economic Review*.
 
 "Small Area Estimation of Non-monetary Poverty with Geospatial Data." (With David
-Newhouse, Ani Rudra Silwal, Adane Bedada and Ryan Engstrom). *Statistical Journal of the IAOS*.
+Newhouse, Ani Rudra Silwal, Adane Bedada and Ryan Engstrom). Conditionally accepted at *Statistical Journal of the IAOS*.
 
 "[Mobile Internet Adoption in West Africa](https://www.sciencedirect.com/science/article/abs/pii/S0160791X21003201)." (With Rogelio Granguillhome Ochoaa, Samantha Lacha, Carlos Rodríguez-Castelán). *Technology in Society* 68.
 
