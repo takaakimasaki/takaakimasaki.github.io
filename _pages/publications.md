@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ***2022***
+
 "Mobile Broadband Internet, Poverty and Labor Outcomes in Tanzania." (With David
 Newhouse, Ani Rudra Silwal, Adane Bedada and Ryan Engstrom). Conditionally accepted at *World Bank Economic Review*.
 
