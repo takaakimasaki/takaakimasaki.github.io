@@ -10,8 +10,8 @@ author_profile: true
 "Mobile Broadband Internet, Poverty and Labor Outcomes in Tanzania." (With Kalvin Bahia, Pau
 Castells, Genaro Cruz, Carlos Rodríguez-Castelán and Viviane Sanfelice). Conditionally accepted at *World Bank Economic Review*.
 
-"Small Area Estimation of Non-monetary Poverty with Geospatial Data." (With David
-Newhouse, Ani Rudra Silwal, Adane Bedada and Ryan Engstrom). Conditionally accepted at *Statistical Journal of the IAOS*.
+"[Small Area Estimation of Non-monetary Poverty with Geospatial Data](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210902)." (With David
+Newhouse, Ani Rudra Silwal, Adane Bedada and Ryan Engstrom). *Statistical Journal of the IAOS*.
 
 "[Mobile Internet Adoption in West Africa](https://www.sciencedirect.com/science/article/abs/pii/S0160791X21003201)." (With Rogelio Granguillhome Ochoaa, Samantha Lacha, Carlos Rodríguez-Castelán). *Technology in Society* 68.
 
