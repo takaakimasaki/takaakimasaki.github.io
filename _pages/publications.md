@@ -5,10 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-***2022***
+***2023***
 
-"Mobile Broadband Internet, Poverty and Labor Outcomes in Tanzania." (With Kalvin Bahia, Pau
-Castells, Genaro Cruz, Carlos Rodríguez-Castelán and Viviane Sanfelice). Conditionally accepted at *World Bank Economic Review*.
+"[Mobile Broadband Internet, Poverty and Labor Outcomes in Tanzania](https://academic.oup.com/wber/advance-article-abstract/doi/10.1093/wber/lhad003/7028405?login=false#.Y-KKBDHDKF8)." (With Kalvin Bahia, Pau
+Castells, Genaro Cruz, Carlos Rodríguez-Castelán and Viviane Sanfelice). *World Bank Economic Review* lhad003, https://doi.org/10.1093/wber/lhad003.
+
+***2022***
 
 "[Small Area Estimation of Non-monetary Poverty with Geospatial Data](https://content.iospress.com/articles/statistical-journal-of-the-iaos/sji210902)." (With David
 Newhouse, Ani Rudra Silwal, Adane Bedada and Ryan Engstrom). *Statistical Journal of the IAOS* 38: 1035–1051. 
