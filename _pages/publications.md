@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+***2024***
+
+"[The Welfare Effects of Mobile Broadband Internet: Evidence from Nigeria](https://www.sciencedirect.com/science/article/pii/S0304387824000634)." (With Kalvin Bahia, Pau Castells, Genaro Cruz, Xavier Pedros, Tobias Pfutze, Carlos Rodríguez-Castelán and Hernan Winkler). *Journal of Development Economics.*
 
 ***2023***
 
