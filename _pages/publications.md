@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+***2025***
+
+"[Estimating the spillover economic effects of foreign conflict shocks: Evidence from Boko Haram](https://www.sciencedirect.com/science/article/abs/pii/S0305750X25001019)." (With Remi Jedwab, Brian Blankespoor and Carlos Rodríguez-Castelán b). *World Development* 193.
+
 ***2024***
 
 "[The Welfare Effects of Mobile Broadband Internet: Evidence from Nigeria](https://www.sciencedirect.com/science/article/pii/S0304387824000634)." (With Kalvin Bahia, Pau Castells, Genaro Cruz, Xavier Pedros, Tobias Pfutze, Carlos Rodríguez-Castelán and Hernan Winkler). *Journal of Development Economics.*
