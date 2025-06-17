@@ -6,7 +6,7 @@ author_profile: true
 ---
 ***2025***
 
-"[Estimating the spillover economic effects of foreign conflict shocks: Evidence from Boko Haram](https://www.sciencedirect.com/science/article/abs/pii/S0305750X25001019)." (With Remi Jedwab, Brian Blankespoor and Carlos Rodríguez-Castelán b). *World Development* 193.
+"[Estimating the spillover economic effects of foreign conflict shocks: Evidence from Boko Haram](https://www.sciencedirect.com/science/article/abs/pii/S0305750X25001019)." (With Remi Jedwab, Brian Blankespoor and Carlos Rodríguez-Castelán). *World Development* 193.
 
 ***2024***
 
