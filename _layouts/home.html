@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+<div id="main" role="main">
+  <div class="home-grid">
+
+    <article class="home-main" itemscope itemtype="http://schema.org/CreativeWork">
+      {% if page.title %}
+        <header>
+          <h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+        </header>
+      {% endif %}
+
+      <section class="page__content" itemprop="text">
+        {{ content }}
+
+        {% assign a = site.author %}
+        <div class="social-row">
+          {% if a.twitter %}
+            <a class="social-btn" href="https://x.com/{{ a.twitter }}" target="_blank" rel="noopener noreferrer" aria-label="X (formerly Twitter)">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231zm-1.161 17.52h1.833L7.084 4.126H5.117l11.966 15.644z"/></svg>
+            </a>
+          {% endif %}
+          {% if a.linkedin %}
+            <a class="social-btn" href="https://www.linkedin.com/in/{{ a.linkedin }}" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+              <i class="fa fa-linkedin" aria-hidden="true"></i>
+            </a>
+          {% endif %}
+          {% if a.github %}
+            <a class="social-btn" href="https://github.com/{{ a.github }}" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+              <i class="fa fa-github" aria-hidden="true"></i>
+            </a>
+          {% endif %}
+          {% if a.googlescholar %}
+            <a class="social-btn" href="{{ a.googlescholar }}" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
+              <i class="ai ai-google-scholar" aria-hidden="true"></i>
+            </a>
+          {% endif %}
+        </div>
+      </section>
+    </article>
+
+    {% if page.whats_new %}
+      <aside class="home-aside" aria-label="What's new">
+        <h2 class="aside-title">What's new</h2>
+        <ul class="news-list">
+          {% for item in page.whats_new %}
+            <li class="news-item">
+              {% if item.label %}<span class="news-label">{{ item.label }}</span>{% endif %}
+              <a class="news-link" href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </aside>
+    {% endif %}
+
+  </div>
+</div>
