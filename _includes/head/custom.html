@@ -24,4 +24,102 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- Landing-page hero banner sty
+<!-- Landing-page hero banner styling -->
+<style>
+  .page__hero {
+    max-width: 1280px;
+    margin: 1.5em auto 2em;
+    padding: 0 1em;
+  }
+  .page__hero-image {
+    display: block;
+    width: 100%;
+    max-height: 460px;
+    object-fit: cover;
+    object-position: center 38%;
+    border-radius: 10px;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.14);
+  }
+  .page__hero-caption {
+    border-radius: 0 0 10px 0;
+  }
+  @media (max-width: 768px) {
+    .page__hero-image { max-height: 240px; border-radius: 8px; }
+  }
+
+  /* Home: single main column + right "What's new" sidebar */
+  .home-grid {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 2.75rem;
+  }
+  .home-main {
+    flex: 1 1 440px;
+    min-width: 0;
+  }
+  .home-aside {
+    flex: 0 0 290px;
+    background: #fafafa;
+    border: 1px solid #ececec;
+    border-radius: 10px;
+    padding: 1.1em 1.3em 1.3em;
+  }
+  .aside-title {
+    margin: 0 0 0.7em;
+    padding-bottom: 0.5em;
+    font-size: 1.15em;
+    font-weight: 700;
+    color: #2c2c2a;
+    border-bottom: 2px solid #e3e3e3;
+  }
+  .news-list { list-style: none; margin: 0; padding: 0; }
+  .news-item { padding: 0.85em 0; border-bottom: 1px solid #ededed; }
+  .news-item:first-child { padding-top: 0; }
+  .news-item:last-child { padding-bottom: 0; border-bottom: 0; }
+  .news-label {
+    display: inline-block;
+    margin-bottom: 0.45em;
+    padding: 2px 9px;
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #fff;
+    background: #4a6fa5;
+    border-radius: 4px;
+  }
+  .news-link {
+    display: block;
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: #2f6fb0;
+    text-decoration: none;
+  }
+  .news-link:hover { text-decoration: underline; }
+
+  /* Social links under About me */
+  .social-row { display: flex; gap: 12px; margin-top: 1.75em; }
+  .social-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    border: 1px solid #e0e0e0;
+    color: #444;
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+  .social-btn:hover { background: #222; color: #fff; border-color: #222; }
+  .social-btn .fa, .social-btn .ai { font-size: 19px; line-height: 1; }
+  .social-btn svg { width: 18px; height: 18px; flex-shrink: 0; fill: currentColor; }
+
+  @media (max-width: 800px) {
+    .home-grid { gap: 1.75rem; }
+    .home-aside { flex-basis: 100%; }
+  }
+</style>
+<!-- end custom head snippets -->
