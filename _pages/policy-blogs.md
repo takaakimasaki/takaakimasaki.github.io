@@ -16,4 +16,4 @@ author_profile: true
 
 "[Why aren't more people using mobile internet in West Africa?](https://blogs.worldbank.org/en/digital-development/why-arent-more-people-using-mobile-internet-west-africa)." (With Rogelio Granguillhome Ochoa, Samantha Lach and Carlos Rodríguez-Castelán). *Digital Transformation*, December 8, 2021.
 
-For the full and most up-
+For the full and most up-to-date list, see all of Taka's posts on [World Bank Blogs](https://blogs.worldbank.org/en/team/t/takaaki-masaki).

@@ -4,4 +4,7 @@ main:
     url: /publications/
 
   - title: "Policy Blogs"
-    url: 
+    url: /policy-blogs/
+
+  - title: "CV"
+    url: /cv/
