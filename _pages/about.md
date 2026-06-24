@@ -11,7 +11,7 @@ whats_new:
   - label: "Impact story"
     title: "Prosperity at Risk: Flood Exposure and Wealth in Asia and the Pacific"
     url: "https://datapartnership.org/updates/partnership-day-2026/"
-  - label: "Paper"
+  - label: "Presentation at Asian Economic Development Conference 2026"
     title: "Mapping Asset Wealth Using Satellite Imagery in Asia"
     url: "https://econ.hkust.edu.hk/events-seminars/asian-economic-development-conference-2026"
 redirect_from: 
@@ -19,6 +19,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website. I am a Senior Economist at the Asian Development Bank (ADB). My current work focuses on developing applications of GIS and big data analytics to improve poverty estimation at a geographically granular level, inform the spatial targeting of investments, and understand the distributional impact of policy interventions.
-
-Prior to my career at ADB, I worked as a Senior Economist at the World Bank and as a Postdoctoral Fellow at AidData, a development research lab at the College of William & Mary. I received a Ph.D. in Political Science from Cornell University in 2015.
+Welcome to my website. I am a Senior Economist at the Asian Development Bank (ADB). My current work focuses on developing applications
