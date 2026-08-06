@@ -6,6 +6,8 @@ author_profile: true
 ---
 ***Asian Development Bank***
 
+"[Prosperity at Risk: Flood Exposure and Wealth in Asia and the Pacific](https://datapartnership.org/updates/prosperity-at-risk-flood-exposure-and-wealth-in-asia-and-the-pacific/)." *Development Data Partnership* (Impact Story), July 27, 2026.
+
 "[Advancing Agricultural Statistics in Pacific Island Countries Through UAVs](https://development.asia/explainer/advancing-agricultural-statistics-pacific-island-countries-through-uavs)." *Development Asia* (Explainer).
 
 ***World Bank Blogs***
